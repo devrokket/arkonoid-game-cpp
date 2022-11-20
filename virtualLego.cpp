@@ -4,7 +4,7 @@
 //
 // File: virtualLego.cpp
 //
-// Original Author: Chang-hyeon Park, 
+// Original Author: ��â�� Chang-hyeon Park, 
 // Modified by Bong-Soo Sohn and Dong-Jun Kim
 // 
 // Originally programmed for Virtual LEGO. 
