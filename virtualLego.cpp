@@ -21,8 +21,6 @@
 #include <iostream>
 #include <cmath>
 
-#define BallNum 60 //병록 추가 변수
-
 IDirect3DDevice9* Device = NULL;
 
 // window size
